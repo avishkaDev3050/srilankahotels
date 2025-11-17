@@ -1,0 +1,1381 @@
+[
+  {
+    "name": "Cinnamon Grand Colombo",
+    "district": "Colombo",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=101"
+  },
+  {
+    "name": "Shangri-La Colombo",
+    "district": "Colombo",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=102"
+  },
+  {
+    "name": "Galle Face Hotel",
+    "district": "Colombo",
+    "rate": 4.6,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=103"
+  },
+  {
+    "name": "Cinnamon Red Colombo",
+    "district": "Colombo",
+    "rate": 4.5,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=104"
+  },
+  {
+    "name": "Hilton Colombo Residences",
+    "district": "Colombo",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=105"
+  },
+  {
+    "name": "Mount Lavinia Hotel",
+    "district": "Colombo",
+    "rate": 4.3,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=106"
+  },
+  {
+    "name": "Jetwing Blue Negombo",
+    "district": "Gampaha",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=107"
+  },
+  {
+    "name": "Heritance Negombo",
+    "district": "Gampaha",
+    "rate": 4.7,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=108"
+  },
+  {
+    "name": "Pegasus Reef Hotel",
+    "district": "Gampaha",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=109"
+  },
+  {
+    "name": "Wallawwa Kotugoda",
+    "district": "Gampaha",
+    "rate": 4.9,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=110"
+  },
+  {
+    "name": "Arie Lagoon Negombo",
+    "district": "Gampaha",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=111"
+  },
+  {
+    "name": "Club Hotel Dolphin",
+    "district": "Gampaha",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=112"
+  },
+  {
+    "name": "Avani Bentota Resort",
+    "district": "Kalutara",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=113"
+  },
+  {
+    "name": "Anantara Kalutara Resort",
+    "district": "Kalutara",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=114"
+  },
+  {
+    "name": "Wadduwa Beach Resort",
+    "district": "Kalutara",
+    "rate": 4.4,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=115"
+  },
+  {
+    "name": "Tangerine Beach Hotel",
+    "district": "Kalutara",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=116"
+  },
+  {
+    "name": "Jetwing Lighthouse Galle (nearby)",
+    "district": "Kalutara",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=117"
+  },
+  {
+    "name": "Serene Pavilion Villa",
+    "district": "Kalutara",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=118"
+  },
+  {
+    "name": "Earl's Regency Hotel",
+    "district": "Kandy",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=119"
+  },
+  {
+    "name": "Cinnamon Citadel Kandy",
+    "district": "Kandy",
+    "rate": 4.6,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=120"
+  },
+  {
+    "name": "Queen's Hotel",
+    "district": "Kandy",
+    "rate": 4.2,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=121"
+  },
+  {
+    "name": "The Golden Crown Hotel",
+    "district": "Kandy",
+    "rate": 4.5,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=122"
+  },
+  {
+    "name": "Mahaweli Reach Hotel",
+    "district": "Kandy",
+    "rate": 4.4,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=123"
+  },
+  {
+    "name": "The Kandy House",
+    "district": "Kandy",
+    "rate": 4.9,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=124"
+  },
+  {
+    "name": "Heritance Kandalama (near Dambulla)",
+    "district": "Matale",
+    "rate": 4.8,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=125"
+  },
+  {
+    "name": "Amaya Lake Dambulla",
+    "district": "Matale",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=126"
+  },
+  {
+    "name": "Jetwing Vil Uyana",
+    "district": "Matale",
+    "rate": 4.7,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=127"
+  },
+  {
+    "name": "Sigiriya Village Hotel",
+    "district": "Matale",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=128"
+  },
+  {
+    "name": "Pelwehera Village Resort",
+    "district": "Matale",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=129"
+  },
+  {
+    "name": "Sundaras Resort & Spa",
+    "district": "Matale",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=130"
+  },
+  {
+    "name": "Grand Hotel Nuwara Eliya",
+    "district": "Nuwara Eliya",
+    "rate": 4.6,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=131"
+  },
+  {
+    "name": "Heritance Tea Factory",
+    "district": "Nuwara Eliya",
+    "rate": 4.7,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=132"
+  },
+  {
+    "name": "Jetwing St. Andrew's",
+    "district": "Nuwara Eliya",
+    "rate": 4.5,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=133"
+  },
+  {
+    "name": "Araliya Green City",
+    "district": "Nuwara Eliya",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=134"
+  },
+  {
+    "name": "Blackpool Hotel",
+    "district": "Nuwara Eliya",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=135"
+  },
+  {
+    "name": "Tea Trails Bungalows",
+    "district": "Nuwara Eliya",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=136"
+  },
+  {
+    "name": "Amari Galle",
+    "district": "Galle",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=137"
+  },
+  {
+    "name": "Jetwing Lighthouse Galle",
+    "district": "Galle",
+    "rate": 4.8,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=138"
+  },
+  {
+    "name": "Cinnamon Bey Beruwala (nearby)",
+    "district": "Galle",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=139"
+  },
+  {
+    "name": "Fort Printers Galle",
+    "district": "Galle",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=140"
+  },
+  {
+    "name": "The Landings Hotel",
+    "district": "Galle",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=141"
+  },
+  {
+    "name": "Taru Villas - Rampart Street",
+    "district": "Galle",
+    "rate": 4.9,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=142"
+  },
+  {
+    "name": "Weligama Bay Marriott Resort & Spa",
+    "district": "Matara",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=143"
+  },
+  {
+    "name": "Mandara Resort Mirissa",
+    "district": "Matara",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=144"
+  },
+  {
+    "name": "Paradise Beach Club Mirissa",
+    "district": "Matara",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=145"
+  },
+  {
+    "name": "Waterfalls Residencies",
+    "district": "Matara",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=146"
+  },
+  {
+    "name": "The Fin Mirissa",
+    "district": "Matara",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=147"
+  },
+  {
+    "name": "Cape Weligama",
+    "district": "Matara",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=148"
+  },
+  {
+    "name": "Shangri-La Hambantota",
+    "district": "Hambantota",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=149"
+  },
+  {
+    "name": "The Peacock Beach Hotel",
+    "district": "Hambantota",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=150"
+  },
+  {
+    "name": "Ranna 212 Beach Resort",
+    "district": "Hambantota",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=151"
+  },
+  {
+    "name": "Soleil Beach Resort",
+    "district": "Hambantota",
+    "rate": 4.5,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=152"
+  },
+  {
+    "name": "Safari Hotel Tissamaharama (nearby)",
+    "district": "Hambantota",
+    "rate": 4.6,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=153"
+  },
+  {
+    "name": "Jetwing Yala",
+    "district": "Hambantota",
+    "rate": 4.7,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=154"
+  },
+  {
+    "name": "Jetwing Jaffna",
+    "district": "Jaffna",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=155"
+  },
+  {
+    "name": "The Thinnai Jaffna",
+    "district": "Jaffna",
+    "rate": 4.5,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=156"
+  },
+  {
+    "name": "North Gate Hotel",
+    "district": "Jaffna",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=157"
+  },
+  {
+    "name": "Jaffna Heritage Hotel",
+    "district": "Jaffna",
+    "rate": 4.4,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=158"
+  },
+  {
+    "name": "Fox Jaffna by Fox Resorts",
+    "district": "Jaffna",
+    "rate": 4.6,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=159"
+  },
+  {
+    "name": "Valampuri Hotel",
+    "district": "Jaffna",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=160"
+  },
+  {
+    "name": "The Ibis - Wilpattu (nearby)",
+    "district": "Kilinochchi",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=161"
+  },
+  {
+    "name": "Kilinochchi Rest House",
+    "district": "Kilinochchi",
+    "rate": 3.8,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=162"
+  },
+  {
+    "name": "Northern Gate Hotel",
+    "district": "Kilinochchi",
+    "rate": 4.1,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=163"
+  },
+  {
+    "name": "Green Garden Inn",
+    "district": "Kilinochchi",
+    "rate": 3.9,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=164"
+  },
+  {
+    "name": "Harmony Holiday Resort",
+    "district": "Kilinochchi",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=165"
+  },
+  {
+    "name": "The Backwaters Wilpattu (nearby)",
+    "district": "Kilinochchi",
+    "rate": 4.3,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=166"
+  },
+  {
+    "name": "Palmyra Grand Rest Inn",
+    "district": "Mannar",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=167"
+  },
+  {
+    "name": "Arippu Fort View Hotel",
+    "district": "Mannar",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=168"
+  },
+  {
+    "name": "Mannar Beach Resort",
+    "district": "Mannar",
+    "rate": 4.3,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=169"
+  },
+  {
+    "name": "Hotel Sarura Mannar",
+    "district": "Mannar",
+    "rate": 3.9,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=170"
+  },
+  {
+    "name": "The Dutch House Mannar",
+    "district": "Mannar",
+    "rate": 4.5,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=171"
+  },
+  {
+    "name": "Adan's Breeze Mannar",
+    "district": "Mannar",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=172"
+  },
+  {
+    "name": "The Thinnai Vanni",
+    "district": "Vavuniya",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=173"
+  },
+  {
+    "name": "Vavuniya Rest House",
+    "district": "Vavuniya",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=174"
+  },
+  {
+    "name": "Pavanajith Inn",
+    "district": "Vavuniya",
+    "rate": 3.9,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=175"
+  },
+  {
+    "name": "Green Grass Hotel",
+    "district": "Vavuniya",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=176"
+  },
+  {
+    "name": "Vavuniya City Hotel",
+    "district": "Vavuniya",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=177"
+  },
+  {
+    "name": "Royal Park Hotel Vavuniya",
+    "district": "Vavuniya",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=178"
+  },
+  {
+    "name": "Nandikadal Lagoon Resort",
+    "district": "Mullaitivu",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=179"
+  },
+  {
+    "name": "The Lagoon Resort",
+    "district": "Mullaitivu",
+    "rate": 4.2,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=180"
+  },
+  {
+    "name": "Mullaitivu Rest House",
+    "district": "Mullaitivu",
+    "rate": 3.9,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=181"
+  },
+  {
+    "name": "Green Star Hotel",
+    "district": "Mullaitivu",
+    "rate": 4.1,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=182"
+  },
+  {
+    "name": "Oceanic Resort Mullaithivu",
+    "district": "Mullaitivu",
+    "rate": 4.3,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=183"
+  },
+  {
+    "name": "Thalaththiyana Beach Hotel",
+    "district": "Mullaitivu",
+    "rate": 4.4,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=184"
+  },
+  {
+    "name": "Earl's Leisure",
+    "district": "Batticaloa",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=185"
+  },
+  {
+    "name": "Riviera Resort Batticaloa",
+    "district": "Batticaloa",
+    "rate": 4.2,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=186"
+  },
+  {
+    "name": "Hotel East Lagoon",
+    "district": "Batticaloa",
+    "rate": 4.5,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=187"
+  },
+  {
+    "name": "Batticaloa City Hotel",
+    "district": "Batticaloa",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=188"
+  },
+  {
+    "name": "Amizara Hotel",
+    "district": "Batticaloa",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=189"
+  },
+  {
+    "name": "The Lagoon Resort Passekudah (nearby)",
+    "district": "Batticaloa",
+    "rate": 4.6,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=190"
+  },
+  {
+    "name": "Gal Oya Lodge",
+    "district": "Ampara",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=191"
+  },
+  {
+    "name": "The Spice Trail Arugam Bay (nearby)",
+    "district": "Ampara",
+    "rate": 4.7,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=192"
+  },
+  {
+    "name": "Paper Moon Kudils Arugam Bay",
+    "district": "Ampara",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=193"
+  },
+  {
+    "name": "Gal Oya Lake Club",
+    "district": "Ampara",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=194"
+  },
+  {
+    "name": "Monty Hotel Ampara",
+    "district": "Ampara",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=195"
+  },
+  {
+    "name": "Arugam Bay Roccos",
+    "district": "Ampara",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=196"
+  },
+  {
+    "name": "Anilana Nilaveli",
+    "district": "Trincomalee",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=197"
+  },
+  {
+    "name": "Jaffna Jetwing Nilaveli",
+    "district": "Trincomalee",
+    "rate": 4.8,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=198"
+  },
+  {
+    "name": "Chaaya Blu Trincomalee",
+    "district": "Trincomalee",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=199"
+  },
+  {
+    "name": "Trinco Blu by Cinnamon",
+    "district": "Trincomalee",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=200"
+  },
+  {
+    "name": "Hotel Tobiko Trincomalee",
+    "district": "Trincomalee",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=201"
+  },
+  {
+    "name": "The Welcombe Hotel",
+    "district": "Trincomalee",
+    "rate": 4.4,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=202"
+  },
+  {
+    "name": "Amaya Hills Kandy (nearby)",
+    "district": "Kurunegala",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=203"
+  },
+  {
+    "name": "Araliya Green City (nearby)",
+    "district": "Kurunegala",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=204"
+  },
+  {
+    "name": "Hotel Suriya Resort",
+    "district": "Kurunegala",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=205"
+  },
+  {
+    "name": "Kurunegala Business Hotel",
+    "district": "Kurunegala",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=206"
+  },
+  {
+    "name": "The Kandyan Reach Hotel",
+    "district": "Kurunegala",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=207"
+  },
+  {
+    "name": "The Grove Hotel Sri Lanka",
+    "district": "Kurunegala",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=208"
+  },
+  {
+    "name": "Club Palm Bay Marawila (nearby)",
+    "district": "Puttalam",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=209"
+  },
+  {
+    "name": "The Blue Lagoon Resort Kalpitiya",
+    "district": "Puttalam",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=210"
+  },
+  {
+    "name": "Palms Resort Kalpitiya",
+    "district": "Puttalam",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=211"
+  },
+  {
+    "name": "Leopard Trails Wilpattu (nearby)",
+    "district": "Puttalam",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=212"
+  },
+  {
+    "name": "Dolphin Beach Resort Kalpitiya",
+    "district": "Puttalam",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=213"
+  },
+  {
+    "name": "Suriya Resort Waikkal",
+    "district": "Puttalam",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=214"
+  },
+  {
+    "name": "Palm Garden Village Hotel",
+    "district": "Anuradhapura",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=215"
+  },
+  {
+    "name": "Rajadhani Hotel Anuradhapura",
+    "district": "Anuradhapura",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=216"
+  },
+  {
+    "name": "The Sanctuary at Tissawewa",
+    "district": "Anuradhapura",
+    "rate": 4.6,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=217"
+  },
+  {
+    "name": "Forest Rock Garden Resort",
+    "district": "Anuradhapura",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=218"
+  },
+  {
+    "name": "Heritage Hotel Anuradhapura",
+    "district": "Anuradhapura",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=219"
+  },
+  {
+    "name": "Gami Gedara Resort",
+    "district": "Anuradhapura",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=220"
+  },
+  {
+    "name": "Heritance Polonnaruwa",
+    "district": "Polonnaruwa",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=221"
+  },
+  {
+    "name": "The Lake Hotel Polonnaruwa",
+    "district": "Polonnaruwa",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=222"
+  },
+  {
+    "name": "Giritale Hotel",
+    "district": "Polonnaruwa",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=223"
+  },
+  {
+    "name": "The Deer Park Hotel",
+    "district": "Polonnaruwa",
+    "rate": 4.4,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=224"
+  },
+  {
+    "name": "Ekho Lake House Polonnaruwa",
+    "district": "Polonnaruwa",
+    "rate": 4.7,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=225"
+  },
+  {
+    "name": "Thidas Arana",
+    "district": "Polonnaruwa",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=226"
+  },
+  {
+    "name": "98 Acres Resort & Spa Ella (nearby)",
+    "district": "Badulla",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=227"
+  },
+  {
+    "name": "EKHO Ella",
+    "district": "Badulla",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=228"
+  },
+  {
+    "name": "Grand Hotel Badulla",
+    "district": "Badulla",
+    "rate": 4.4,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=229"
+  },
+  {
+    "name": "Ella Flower Garden Resort",
+    "district": "Badulla",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=230"
+  },
+  {
+    "name": "Heritage Grand - Badulla",
+    "district": "Badulla",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=231"
+  },
+  {
+    "name": "Morning Dew Boutique Hotel Ella",
+    "district": "Badulla",
+    "rate": 4.7,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=232"
+  },
+  {
+    "name": "Kithala Resort Tissa (nearby)",
+    "district": "Moneragala",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=233"
+  },
+  {
+    "name": "Jetwing Kaduruketha (nearby)",
+    "district": "Moneragala",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=234"
+  },
+  {
+    "name": "Hotel River Side Moneragala",
+    "district": "Moneragala",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=235"
+  },
+  {
+    "name": "Living Heritage Koslanda",
+    "district": "Moneragala",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=236"
+  },
+  {
+    "name": "Dream Cliff Mountain Resort (nearby)",
+    "district": "Moneragala",
+    "rate": 4.7,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=237"
+  },
+  {
+    "name": "Hotel Dalu - Monaragala",
+    "district": "Moneragala",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=238"
+  },
+  {
+    "name": "Grand View Hotel Ratnapura",
+    "district": "Ratnapura",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=239"
+  },
+  {
+    "name": "The Blue Waters Balangoda",
+    "district": "Ratnapura",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=240"
+  },
+  {
+    "name": "Ratnapura Rest House",
+    "district": "Ratnapura",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=241"
+  },
+  {
+    "name": "The Glenrock",
+    "district": "Ratnapura",
+    "rate": 4.5,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=242"
+  },
+  {
+    "name": "Centauria Tourist Hotel",
+    "district": "Ratnapura",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=243"
+  },
+  {
+    "name": "Forest Edge Lodge",
+    "district": "Ratnapura",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=244"
+  },
+  {
+    "name": "Club Koggala Village (nearby)",
+    "district": "Kegalle",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=245"
+  },
+  {
+    "name": "Pinnalanda Eco Village (nearby)",
+    "district": "Kegalle",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=246"
+  },
+  {
+    "name": "Green Paradise Hotel",
+    "district": "Kegalle",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=247"
+  },
+  {
+    "name": "Kegalle Rest House",
+    "district": "Kegalle",
+    "rate": 3.9,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=248"
+  },
+  {
+    "name": "The Fortress Resort & Spa (nearby)",
+    "district": "Kegalle",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=249"
+  },
+  {
+    "name": "Horagolla Stables",
+    "district": "Kegalle",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=250"
+  },
+  {
+    "name": "Hotel Ovinrich",
+    "district": "Matara",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=251"
+  },
+  {
+    "name": "Jetwing Surf Pottuvil (nearby)",
+    "district": "Matara",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=252"
+  },
+  {
+    "name": "The Fortress Resort & Spa",
+    "district": "Galle",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=253"
+  },
+  {
+    "name": "Calamander Unawatuna Beach",
+    "district": "Galle",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=254"
+  },
+  {
+    "name": "Club Bentota (nearby)",
+    "district": "Galle",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=255"
+  },
+  {
+    "name": "Cinnamon Wild Yala (nearby)",
+    "district": "Hambantota",
+    "rate": 4.7,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=256"
+  },
+  {
+    "name": "The River House",
+    "district": "Kalutara",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=257"
+  },
+  {
+    "name": "The Leaf Watagala",
+    "district": "Kegalle",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=258"
+  },
+  {
+    "name": "Hotel Senondra",
+    "district": "Ampara",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=259"
+  },
+  {
+    "name": "Amaya Beach Pasikudah",
+    "district": "Batticaloa",
+    "rate": 4.7,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=260"
+  },
+  {
+    "name": "Uga Ulagalla Resort",
+    "district": "Anuradhapura",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=261"
+  },
+  {
+    "name": "Cinnamon Lodge Habarana (nearby)",
+    "district": "Polonnaruwa",
+    "rate": 4.7,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=262"
+  },
+  {
+    "name": "Wild Glamping Gal Oya (nearby)",
+    "district": "Ampara",
+    "rate": 4.5,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=263"
+  },
+  {
+    "name": "9T8 Acres Resort & Spa (nearby)",
+    "district": "Badulla",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=264"
+  },
+  {
+    "name": "Nilaveli Beach Hotel",
+    "district": "Trincomalee",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=265"
+  },
+  {
+    "name": "Kalpitiya Dive Centre",
+    "district": "Puttalam",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=266"
+  },
+  {
+    "name": "Sigiriya Jungles (nearby)",
+    "district": "Matale",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=267"
+  },
+  {
+    "name": "Jetwing Kandy Gallery",
+    "district": "Kandy",
+    "rate": 4.8,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=268"
+  },
+  {
+    "name": "Weligama Bay Resort",
+    "district": "Matara",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=269"
+  },
+  {
+    "name": "Hotel Riventra",
+    "district": "Ratnapura",
+    "rate": 4.2,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=270"
+  },
+  {
+    "name": "Hotel Sigiriya (nearby)",
+    "district": "Matale",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=271"
+  },
+  {
+    "name": "Uga Riva Veli",
+    "district": "Jaffna",
+    "rate": 4.7,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=272"
+  },
+  {
+    "name": "Hotel Grand Mountain",
+    "district": "Nuwara Eliya",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=273"
+  },
+  {
+    "name": "Le Kandyan",
+    "district": "Kandy",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=274"
+  },
+  {
+    "name": "Thambapanni Retreat",
+    "district": "Galle",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=275"
+  },
+  {
+    "name": "Serendib Hotel Bentota",
+    "district": "Kalutara",
+    "rate": 4.3,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=276"
+  },
+  {
+    "name": "Gateway Airport Hotel",
+    "district": "Gampaha",
+    "rate": 4.4,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=277"
+  },
+  {
+    "name": "The Sanctuary at Tissawewa",
+    "district": "Anuradhapura",
+    "rate": 4.5,
+    "type": "Heritage",
+    "image": "https://picsum.photos/400/300?random=278"
+  },
+  {
+    "name": "Sudugala Cottage",
+    "district": "Kegalle",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=279"
+  },
+  {
+    "name": "Hotel De Pilawoos",
+    "district": "Colombo",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=280"
+  },
+  {
+    "name": "Weligama Bay Resort",
+    "district": "Matara",
+    "rate": 4.5,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=281"
+  },
+  {
+    "name": "Araliya Green Hills Hotel",
+    "district": "Nuwara Eliya",
+    "rate": 4.5,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=282"
+  },
+  {
+    "name": "Leopard Nest Camping (nearby)",
+    "district": "Hambantota",
+    "rate": 4.6,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=283"
+  },
+  {
+    "name": "Hotel Araliya",
+    "district": "Polonnaruwa",
+    "rate": 4.3,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=284"
+  },
+  {
+    "name": "Jaya Lanka Hotel",
+    "district": "Vavuniya",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=285"
+  },
+  {
+    "name": "Hotel Lagoon Paradise",
+    "district": "Mannar",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=286"
+  },
+  {
+    "name": "Trinco Beach Hotel",
+    "district": "Trincomalee",
+    "rate": 4.3,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=287"
+  },
+  {
+    "name": "Hotel Sanasta Badulla",
+    "district": "Badulla",
+    "rate": 4.1,
+    "type": "Business",
+    "image": "https://picsum.photos/400/300?random=288"
+  },
+  {
+    "name": "Fox Resorts Jaffna",
+    "district": "Jaffna",
+    "rate": 4.6,
+    "type": "Boutique",
+    "image": "https://picsum.photos/400/300?random=289"
+  },
+  {
+    "name": "Ampara City Hotel",
+    "district": "Ampara",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=290"
+  },
+  {
+    "name": "Hotel Sannas",
+    "district": "Kurunegala",
+    "rate": 4.0,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=291"
+  },
+  {
+    "name": "Wilpattu Nature Resort",
+    "district": "Puttalam",
+    "rate": 4.1,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=292"
+  },
+  {
+    "name": "Wild Coast Tented Lodge (nearby)",
+    "district": "Hambantota",
+    "rate": 4.9,
+    "type": "Luxury",
+    "image": "https://picsum.photos/400/300?random=293"
+  },
+  {
+    "name": "Hotel Grand Udawalawe (nearby)",
+    "district": "Ratnapura",
+    "rate": 4.4,
+    "type": "Resort",
+    "image": "https://picsum.photos/400/300?random=294"
+  },
+  {
+    "name": "Hotel Lagoon Paradise",
+    "district": "Batticaloa",
+    "rate": 4.2,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=295"
+  },
+  {
+    "name": "Hotel Lake Nest",
+    "district": "Mullaitivu",
+    "rate": 4.1,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=296"
+  },
+  {
+    "name": "Hotel Vasantham",
+    "district": "Kilinochchi",
+    "rate": 3.9,
+    "type": "Economy",
+    "image": "https://picsum.photos/400/300?random=297"
+  }
+]
