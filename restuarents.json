@@ -1,0 +1,204 @@
+{
+  "restaurants": [
+    {
+      "id": "MINISTRY_OF_CRAB",
+      "name": "Ministry of Crab",
+      "location": "Colombo (Dutch Hospital Precinct)",
+      "cuisine": "Seafood, Sri Lankan",
+      "description": "An internationally acclaimed restaurant by Chef Dharshan Munidasa, famous for its mud crab dishes, especially the Pepper Crab and Garlic Chili Crab.",
+      "best_for": ["Fine Dining", "Seafood Lovers", "Iconic Experience"],
+      "price_range": "$$$$",
+      "image_url": "PLACEHOLDER: Licensed image of Ministry of Crab"
+    },
+    {
+      "id": "PARADISE_ROAD_GALLERY_CAFE",
+      "name": "Paradise Road The Gallery Cafe",
+      "location": "Colombo (Colombo 03)",
+      "cuisine": "International, Fusion",
+      "description": "Housed in a beautiful building designed by the late architect Geoffrey Bawa, known for its elegant ambiance, art gallery, and famous Double Chocolate Cheesecake.",
+      "best_for": ["Ambiance", "Lunch/Dinner", "Desserts"],
+      "price_range": "$$$",
+      "image_url": "PLACEHOLDER: Licensed image of The Gallery Cafe"
+    },
+    {
+      "id": "UPALIS_BY_NAWALOKA",
+      "name": "Upali's by Nawaloka",
+      "location": "Colombo (Colombo 07)",
+      "cuisine": "Authentic Sri Lankan",
+      "description": "A popular spot for traditional Ceylonese comfort food, serving flavorful rice and curry, kottu, and hoppers in a modern, accessible setting.",
+      "best_for": ["Local Cuisine", "Family Dining", "Affordable Sri Lankan"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Upali's"
+    },
+    {
+      "id": "THE_LAGOON",
+      "name": "The Lagoon (Cinnamon Grand)",
+      "location": "Colombo (Cinnamon Grand Hotel)",
+      "cuisine": "Seafood",
+      "description": "A market-fresh seafood restaurant where you select your fish and the chef prepares it in your preferred style (local, Thai, Indian, etc.).",
+      "best_for": ["Fresh Seafood", "Customizable Dishes"],
+      "price_range": "$$$",
+      "image_url": "PLACEHOLDER: Licensed image of The Lagoon"
+    },
+    {
+      "id": "THE_BAYLEAF",
+      "name": "The Bayleaf",
+      "location": "Colombo (Colombo 07)",
+      "cuisine": "Italian",
+      "description": "One of Colombo's oldest and most respected Italian restaurants, located in a beautifully restored colonial bungalow.",
+      "best_for": ["Romantic Dinner", "Authentic Italian", "Wine Selection"],
+      "price_range": "$$$",
+      "image_url": "PLACEHOLDER: Licensed image of The Bayleaf"
+    },
+    {
+      "id": "NILAVELI_CRAB_EATERY",
+      "name": "Nilaveli Crab Eatery",
+      "location": "Trincomalee/Nilaveli",
+      "cuisine": "Seafood, Local",
+      "description": "A highly-rated local spot on the East Coast famous for fresh, large lagoon crab and other seafood curries.",
+      "best_for": ["East Coast Seafood", "Casual Dining"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Nilaveli Crab Eatery"
+    },
+    {
+      "id": "AQUA_FORTE",
+      "name": "AQUA Forte",
+      "location": "Galle Fort",
+      "cuisine": "Fine Dining Italian",
+      "description": "Widely regarded as one of Sri Lanka's best Italian restaurants, offering authentic Italian cuisine in a chic, colonial setting.",
+      "best_for": ["Fine Dining", "Galle Fort Luxury", "Italian"],
+      "price_range": "$$$$",
+      "image_url": "PLACEHOLDER: Licensed image of AQUA Forte"
+    },
+    {
+      "id": "COCONUT_SAMBOL",
+      "name": "Coconut Sambol",
+      "location": "Galle Fort",
+      "cuisine": "Sri Lankan (Vegetarian/Local)",
+      "description": "A tiny, very popular spot offering a traditional Sri Lankan rice and curry buffet, famous for its authentic curries and namesake coconut sambol.",
+      "best_for": ["Authentic Rice & Curry", "Budget-Friendly", "Local Flavors"],
+      "price_range": "$",
+      "image_url": "PLACEHOLDER: Licensed image of Coconut Sambol"
+    },
+    {
+      "id": "A_MINUTE_BY_TUK_TUK",
+      "name": "A Minute by Tuk Tuk",
+      "location": "Galle Fort (Dutch Hospital)",
+      "cuisine": "Fusion, Sri Lankan",
+      "description": "Located on the upper floor of the Dutch Hospital, offering stunning views of the ocean and Galle Fort walls, with great cocktails and Sri Lankan short-eats.",
+      "best_for": ["View/Sunset", "Drinks & Snacks", "Casual Dining"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of A Minute by Tuk Tuk"
+    },
+    {
+      "id": "SHADY_LANE",
+      "name": "Shady Lane",
+      "location": "Mirissa",
+      "cuisine": "Brunch, Healthy",
+      "description": "The ultimate brunch spot in Mirissa, known for its creative smoothie bowls, strong coffee, and relaxed, island-vibe atmosphere.",
+      "best_for": ["Brunch/Breakfast", "Smoothie Bowls", "Coffee"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Shady Lane"
+    },
+    {
+      "id": "MATEY_HUT",
+      "name": "Matey Hut",
+      "location": "Ella",
+      "cuisine": "Traditional Sri Lankan",
+      "description": "A small, highly-rated family-run restaurant famous for serving the best traditional rice and curry in Ella at very affordable prices.",
+      "best_for": ["Authentic Rice & Curry", "Budget-Friendly", "Ella Must-Try"],
+      "price_range": "$",
+      "image_url": "PLACEHOLDER: Licensed image of Matey Hut"
+    },
+    {
+      "id": "CAFE_CHILL",
+      "name": "Cafe Chill",
+      "location": "Ella",
+      "cuisine": "International, Sri Lankan",
+      "description": "The most famous and largest restaurant/bar in Ella, offering a chilled-out atmosphere, great cocktails, and a mix of Western and Sri Lankan food.",
+      "best_for": ["Nightlife", "Socializing", "Western Food Options"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Cafe Chill"
+    },
+    {
+      "id": "SKINNY_TOMS_DELI",
+      "name": "SkinnyTom's Deli",
+      "location": "Unawatuna",
+      "cuisine": "Brunch, European",
+      "description": "A stylish spot near the beach, perfect for all-day breakfast, good coffee, and Western comfort food in a beautiful garden setting.",
+      "best_for": ["Breakfast/Brunch", "Coffee", "Modern Vibe"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of SkinnyTom's Deli"
+    },
+    {
+      "id": "ELITA_RESTAURANT",
+      "name": "Elita Restaurant",
+      "location": "Galle Fort",
+      "cuisine": "Seafood",
+      "description": "A highly-rated casual seafood spot in Galle Fort known for its fresh catch of the day and simple, delicious preparations.",
+      "best_for": ["Casual Seafood", "Galle Fort Dining"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Elita Restaurant"
+    },
+    {
+      "id": "THE_TUNA_AND_THE_CRAB",
+      "name": "The Tuna and The Crab",
+      "location": "Colombo (Dutch Hospital Precinct)",
+      "cuisine": "Japanese, Seafood",
+      "description": "Another highly-rated concept by Chef Dharshan Munidasa, combining the best of Japanese cuisine (sushi/sashimi) with local Sri Lankan seafood.",
+      "best_for": ["Japanese Food", "Seafood", "Chic Dining"],
+      "price_range": "$$$",
+      "image_url": "PLACEHOLDER: Licensed image of The Tuna and The Crab"
+    },
+    {
+      "id": "KAAK_CRAB",
+      "name": "Kaak Crab",
+      "location": "Mount Lavinia (Colombo South)",
+      "cuisine": "Seafood, Sri Lankan",
+      "description": "A popular roadside restaurant known for its incredibly tasty and value-for-money chili and butter crabs. Very authentic local experience.",
+      "best_for": ["Local Seafood", "Value", "Authentic Crab"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Kaak Crab"
+    },
+    {
+      "id": "THE_BUNGALOW_GALLE_FORT",
+      "name": "The Bungalow Galle Fort",
+      "location": "Galle Fort",
+      "cuisine": "Fusion, Sri Lankan",
+      "description": "Located in a beautiful colonial building with a lush courtyard. Known for elevated, refined Sri Lankan and international fusion dishes.",
+      "best_for": ["Courtyard Dining", "Elevated Local Food"],
+      "price_range": "$$$",
+      "image_url": "PLACEHOLDER: Licensed image of The Bungalow"
+    },
+    {
+      "id": "RANI_RESTAURANT",
+      "name": "Rani Restaurant",
+      "location": "Arugam Bay",
+      "cuisine": "Seafood, Local",
+      "description": "A long-standing favorite in Arugam Bay, famous for its daily fresh seafood BBQ and great, inexpensive curries.",
+      "best_for": ["Arugam Bay Dining", "Seafood BBQ", "Local Vibe"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Rani Restaurant"
+    },
+    {
+      "id": "THE_BARN_BY_STARBEANS",
+      "name": "The Barn by Starbeans",
+      "location": "Ella",
+      "cuisine": "Pizza, Western",
+      "description": "A popular alternative to Cafe Chill, known for serving some of the best wood-fired pizzas and cocktails in the Ella area.",
+      "best_for": ["Pizza", "Cocktails", "Western Comfort Food"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of The Barn"
+    },
+    {
+      "id": "CHAMBERS_RESTAURANT",
+      "name": "Chambers Restaurant",
+      "location": "Galle Fort",
+      "cuisine": "Middle Eastern, Moroccan",
+      "description": "A popular spot in Galle Fort specializing in Middle Eastern cuisine, offering great hummus, tagines, and kebabs.",
+      "best_for": ["Middle Eastern Food", "Non-Sri Lankan Option"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Chambers Restaurant"
+    }
+  ]
+}
