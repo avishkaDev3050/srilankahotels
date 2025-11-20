@@ -1,0 +1,185 @@
+{
+  "cultural_sites": [
+    {
+      "id": "DALADA_MALIGAWA",
+      "name": "Temple of the Sacred Tooth Relic (Dalada Maligawa)",
+      "district": "Kandy",
+      "religion": "Buddhism",
+      "significance": "Houses the relic of the tooth of the Buddha. It is a UNESCO World Heritage Site and the most sacred Buddhist site in Sri Lanka.",
+      "best_for": ["Pilgrimage", "Kandyan Architecture", "Historical Ceremonies"],
+      "image_url": "PLACEHOLDER: Licensed image of Temple of the Tooth"
+    },
+    {
+      "id": "JAYA_SRI_MAHA_BODHIYA",
+      "name": "Jaya Sri Maha Bodhiya",
+      "district": "Anuradhapura",
+      "religion": "Buddhism",
+      "significance": "The southern branch of the historical Sri Maha Bodhi tree in India under which the Buddha attained Enlightenment. It is the oldest continually documented tree in the world.",
+      "best_for": ["Pilgrimage", "Ancient History", "Serenity"],
+      "image_url": "PLACEHOLDER: Licensed image of Jaya Sri Maha Bodhiya"
+    },
+    {
+      "id": "NALLUR_KANDASWAMY_KOVIL",
+      "name": "Nallur Kandaswamy Kovil",
+      "district": "Jaffna",
+      "religion": "Hinduism",
+      "significance": "One of the most significant Hindu temples in Sri Lanka, dedicated to Lord Murugan. Known for its Dravidian architecture and annual festival.",
+      "best_for": ["Pilgrimage", "Architecture", "Cultural Festival (Aug/Sept)"],
+      "image_url": "PLACEHOLDER: Licensed image of Nallur Kovil"
+    },
+    {
+      "id": "ST_ANTHONY_SHRINE",
+      "name": "St. Anthony's Shrine, Kochchikade",
+      "district": "Colombo",
+      "religion": "Christianity (Catholic)",
+      "significance": "A major Catholic national shrine and minor basilica dedicated to Saint Anthony of Padua, attracting devotees of all faiths for miracles and blessings.",
+      "best_for": ["Inter-faith Worship", "Historical Church", "Pilgrimage"],
+      "image_url": "PLACEHOLDER: Licensed image of St. Anthony's Shrine"
+    },
+    {
+      "id": "SIGIRIYA",
+      "name": "Sigiriya Rock Fortress",
+      "district": "Matale",
+      "religion": "Historical/Cultural",
+      "significance": "An ancient rock fortress and palace built by King Kashyapa. Famous for its frescoes, 'Lion Gate', and sophisticated hydraulic systems. A UNESCO World Heritage Site.",
+      "best_for": ["Architecture", "History", "Scenic Views"],
+      "image_url": "PLACEHOLDER: Licensed image of Sigiriya"
+    },
+    {
+      "id": "DAMBULLA_CAVE",
+      "name": "Dambulla Cave Temple (Rangiri Dambulla)",
+      "district": "Matale",
+      "religion": "Buddhism",
+      "significance": "The largest and best-preserved cave temple complex in Sri Lanka, featuring over 150 statues of the Buddha and detailed cave paintings. A UNESCO World Heritage Site.",
+      "best_for": ["Ancient Murals", "Rock Caves", "Buddhist Art"],
+      "image_url": "PLACEHOLDER: Licensed image of Dambulla Cave Temple"
+    },
+    {
+      "id": "RUWANWELISAYA",
+      "name": "Ruwanwelisaya Stupa",
+      "district": "Anuradhapura",
+      "religion": "Buddhism",
+      "significance": "One of the *Solosmasthana* (16 sacred sites) and one of the largest stupas in the world, built by King Dutugemunu. A towering symbol of ancient Buddhist architecture.",
+      "best_for": ["Pilgrimage", "Ancient Ruins", "Architectural Scale"],
+      "image_url": "PLACEHOLDER: Licensed image of Ruwanwelisaya"
+    },
+    {
+      "id": "GALLE_FORT",
+      "name": "Old Town of Galle and its Fortifications",
+      "district": "Galle",
+      "religion": "Historical/Colonial",
+      "significance": "A fortified city built by the Portuguese and extensively modified by the Dutch. It's the best-preserved sea fort in South Asia and a UNESCO World Heritage Site.",
+      "best_for": ["Colonial History", "Architecture", "Walks/Sunset"],
+      "image_url": "PLACEHOLDER: Licensed image of Galle Fort"
+    },
+    {
+      "id": "ADAMS_PEAK",
+      "name": "Sri Pada (Adam's Peak)",
+      "district": "Ratnapura/Nuwara Eliya",
+      "religion": "Multi-Faith",
+      "significance": "A sacred mountain containing the 'Sri Pada' (sacred footprint), revered by Buddhists (Buddha's footprint), Hindus (Shiva's), and Muslims/Christians (Adam's or St. Thomas's).",
+      "best_for": ["Pilgrimage Trek", "Sunrise View", "Biodiversity"],
+      "image_url": "PLACEHOLDER: Licensed image of Adam's Peak"
+    },
+    {
+      "id": "KATHARAGAMA_KOVIL",
+      "name": "Ruhunu Maha Kataragama Dewalaya",
+      "district": "Monaragala",
+      "religion": "Multi-Faith",
+      "significance": "A shrine complex dedicated to Skanda-Murukan, attracting devotees from all major religions (Buddhist, Hindu, Muslim) for centuries, highlighting inter-faith harmony.",
+      "best_for": ["Pilgrimage", "Inter-faith Worship", "Pooja Ceremonies"],
+      "image_url": "PLACEHOLDER: Licensed image of Kataragama Kovil"
+    },
+    {
+      "id": "JAMI_UL_ALFAR_MOSQUE",
+      "name": "Jami-Ul-Alfar Mosque (Red Mosque)",
+      "district": "Colombo (Pettah)",
+      "religion": "Islam",
+      "significance": "An iconic, historic mosque known for its striking red-and-white striped architecture. A major landmark in the Pettah market area.",
+      "best_for": ["Architecture", "Historical Landmark", "Pettah Market Visit"],
+      "image_url": "PLACEHOLDER: Licensed image of Jami-Ul-Alfar Mosque"
+    },
+    {
+      "id": "GANGARAMAYA_TEMPLE",
+      "name": "Gangaramaya Temple",
+      "district": "Colombo",
+      "religion": "Buddhism",
+      "significance": "One of Colombo's most important temples, combining architecture from Sri Lanka, India, China, and Thailand. Also features a museum with historical artifacts.",
+      "best_for": ["Buddhist Art", "Museum", "Colombo Sightseeing"],
+      "image_url": "PLACEHOLDER: Licensed image of Gangaramaya Temple"
+    },
+    {
+      "id": "DUTCH_REFORMED_CHURCH",
+      "name": "Dutch Reformed Church (Groote Kerk)",
+      "district": "Galle",
+      "religion": "Christianity (Protestant)",
+      "significance": "Located inside Galle Fort, it is one of the oldest Protestant churches still in use in Sri Lanka, built in 1755, featuring unique gravestones and architecture.",
+      "best_for": ["Colonial History", "Architecture", "Galle Fort Sightseeing"],
+      "price_range": "$$",
+      "image_url": "PLACEHOLDER: Licensed image of Dutch Reformed Church Galle"
+    },
+    {
+      "id": "POLONNARUWA",
+      "name": "Ancient City of Polonnaruwa",
+      "district": "Polonnaruwa",
+      "religion": "Historical/Buddhism",
+      "significance": "The second ancient capital of Sri Lanka. Features well-preserved ruins of royal palaces, temples, and the famous 'Gal Vihara' rock-cut Buddha statues. A UNESCO World Heritage Site.",
+      "best_for": ["Ancient Ruins", "Archaeology", "Statuary"],
+      "image_url": "PLACEHOLDER: Licensed image of Polonnaruwa Gal Vihara"
+    },
+    {
+      "id": "SEETHA_AMMAN_KOVIL",
+      "name": "Seetha Amman Temple",
+      "district": "Nuwara Eliya",
+      "religion": "Hinduism",
+      "significance": "Dedicated to Sita, the wife of Lord Rama, it is believed to be the site where she was held captive by King Ravana in the epic Ramayana.",
+      "best_for": ["Ramayana Trail", "Pilgrimage", "Hill Country Views"],
+      "image_url": "PLACEHOLDER: Licensed image of Seetha Amman Kovil"
+    },
+    {
+      "id": "MIHINTALE",
+      "name": "Mihintale",
+      "district": "Anuradhapura",
+      "religion": "Buddhism",
+      "significance": "The site where Buddhism was officially introduced to Sri Lanka by Arahant Mahinda in 247 BC. Features many stupas and ancient cave dwellings on a sacred mountain.",
+      "best_for": ["Historical Significance", "Climbing/Steps", "Views"],
+      "image_url": "PLACEHOLDER: Licensed image of Mihintale"
+    },
+    {
+      "id": "ISURUMUNIYA",
+      "name": "Isurumuniya Vihara",
+      "district": "Anuradhapura",
+      "religion": "Buddhism",
+      "significance": "A beautiful ancient Buddhist temple known for its rock carvings, including the famous 'Isurumuniya Lovers' and the 'Elephant Pond' carvings.",
+      "best_for": ["Ancient Carvings", "Rock Temple", "Photography"],
+      "image_url": "PLACEHOLDER: Licensed image of Isurumuniya"
+    },
+    {
+      "id": "MUTHIYANGANA_VIHARA",
+      "name": "Muthiyangana Raja Maha Viharaya",
+      "district": "Badulla",
+      "religion": "Buddhism",
+      "significance": "One of the *Solosmasthana*, believed to be a place visited by the Buddha. Located in the heart of Badulla town, it is a significant regional pilgrimage site.",
+      "best_for": ["Pilgrimage", "Hill Country History"],
+      "image_url": "PLACEHOLDER: Licensed image of Muthiyangana Vihara"
+    },
+    {
+      "id": "NATIONAL_BASILICA",
+      "name": "National Basilica of Our Lady of Lanka",
+      "district": "Gampaha (Ragama)",
+      "religion": "Christianity (Catholic)",
+      "significance": "A major Catholic site and the national basilica, dedicated to Our Lady of Lanka. Known for its grand architecture and large pilgrimages.",
+      "best_for": ["Pilgrimage", "Modern Church Architecture"],
+      "image_url": "PLACEHOLDER: Licensed image of National Basilica"
+    },
+    {
+      "id": "SRI_MAHA_KALI_KOVIL",
+      "name": "Sri Maha Kali Amman Kovil",
+      "district": "Trincomalee",
+      "religion": "Hinduism",
+      "significance": "A prominent and colorful Hindu temple dedicated to the goddess Kali, known for its vibrant architecture and intense, powerful atmosphere.",
+      "best_for": ["Hindu Rituals", "Vibrant Colors", "Local Culture"],
+      "image_url": "PLACEHOLDER: Licensed image of Trincomalee Kali Kovil"
+    }
+  ]
+}
